@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793292931 source:c:\users\emill\onedrive\documentos\labprog\aula15\atividade05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
